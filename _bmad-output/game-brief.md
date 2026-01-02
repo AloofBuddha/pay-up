@@ -11,7 +11,7 @@ lastStep: 1
 project_name: "pay-up"
 user_name: "Aloofbuddha"
 date: "2026-01-02"
-game_name: ""
+game_name: "Pay Up"
 ---
 
 # Game Brief: {{game_name}}
@@ -32,15 +32,15 @@ game_name: ""
 
 ### Core Concept
 
-{{core_concept}}
+A battle royale where buying cosmetics means negotiating with an AI that tracks its own API costs and will cut you off if you're wasting its time—making the economics of free-to-play gaming transparent and hilarious.
 
 ### Elevator Pitch
 
-{{elevator_pitch}}
+A satirical battle royale that turns microtransactions into a negotiation game. Watch an AI bot argue with players about cosmetic prices while showing exactly how much their play session cost, how much the skin cost to make, and how much this conversation is costing in real-time API tokens. It's absurd, transparent, and designed to go viral.
 
 ### Vision Statement
 
-{{vision_statement}}
+Create shareable, absurd moments where players negotiate with an AI about cosmetic prices, making the hidden economics of gaming transparent and hilarious. Success means streamers can't help but clip the ridiculous haggling sessions—whether the bot accepts lowball offers, cuts players off for wasting tokens, or celebrates when someone pays full price. This game succeeds when players can't stop talking about the ridiculous economics.
 
 ---
 
